@@ -1,3 +1,5 @@
+### THIS REPO HAS NOW BEEN MOVED TO https://github.com/KTH-SML/ITRL-Manufacturing
+
 # ITRL Manufacturing GitHub Repository
 
 Welcome to the ITRL Manufacturing GitHub repository, where you can find printing profiles and specifications for our three 3D printers: Ultimaker 2+, Ultimaker 3, and Voron Trident.
